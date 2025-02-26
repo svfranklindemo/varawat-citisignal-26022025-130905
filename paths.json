@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/varawat/varawat-2025-2-26-18-38-55/:/",
+      "/content/varawat/varawat-2025-2-26-18-38-55/configuration:/.helix/config.json",
+      "/content/varawat/varawat-2025-2-26-18-38-55/metadata:/metadata.json",
+      "/content/varawat/varawat-2025-2-26-18-38-55/configs:/configs.json",
+      "/content/varawat/varawat-2025-2-26-18-38-55/configs-stage:/configs-stage.json",
+      "/content/varawat/varawat-2025-2-26-18-38-55/configs-dev:/configs-dev.json",
+      "/content/varawat/varawat-2025-2-26-18-38-55/redirects:/redirects.json",
+      "/content/varawat/varawat-2025-2-26-18-38-55/placeholders:/placeholders.json",
+      "/content/varawat/varawat-2025-2-26-18-38-55/products/recommended-products:/products/recommended-products.json",
+      "/content/varawat/varawat-2025-2-26-18-38-55/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/varawat/varawat-2025-2-26-18-38-55/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/varawat/varawat-2025-2-26-18-38-55",
       "/content/dam/citisignal/images/products/"
     ]
 }
